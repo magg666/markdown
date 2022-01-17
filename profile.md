@@ -18,6 +18,8 @@ The wise man one said:
 ### Page I like visit:
 [Bored Panda](https://www.boredpanda.com/?utm_source=bing&utm_medium=organic&utm_campaign=organic)
 
-|This is change| I made this|
+|Color | Fruit |
 |--------------|------------|
-| Umpa umpa | O ho ho ho |
+| Yellow | Banana |
+| Red | Apple |
+| Orange | Orange |
