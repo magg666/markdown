@@ -1,5 +1,5 @@
 # The Story of My Life
-## Magdalena Wasowicz
+## Magdalena Wąsowicz
 
 **My motto:**
 > *Semper ubi sub-ubi*
