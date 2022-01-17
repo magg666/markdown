@@ -48,3 +48,10 @@ def hello():
 | Also favorite animal | Cat | Ruda |
 
 [^1]: he is standing behind me...
+
+
+### This is the end of my story ... for now
+> And remember:
+>> *“If you trust in yourself. . .and believe in your dreams. . .and follow your star. . . you'll still get beaten by people who spent their time working hard and learning things and weren't so lazy.”*
+
+*<p style="text-align: right;"> Terry Pratchett </div>*
