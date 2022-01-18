@@ -55,4 +55,3 @@ def hello():
 >> *“If you trust in yourself. . .and believe in your dreams. . .and follow your star. . . you'll still get beaten by people who spent their time working hard and learning things and weren't so lazy.”*
 
 *<p style="text-align: right;"> Terry Pratchett </div>*
-chnges changes
