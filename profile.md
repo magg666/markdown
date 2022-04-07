@@ -2,7 +2,7 @@
 
 ## HatCHRy Presentation Lightning Talk
 
-[Talk title](https://web.microsoftstream.com/video/1fa3a0b1-21ea-4277-bc25-5b30f78da829)
+[Cross Cultural Communication](https://web.microsoftstream.com/video/1fa3a0b1-21ea-4277-bc25-5b30f78da829)
 
 ## Magdalena Wąsowicz
 
