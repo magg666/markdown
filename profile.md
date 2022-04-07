@@ -1,16 +1,24 @@
 # The Story of My Life
+
+## HatCHRy Presentation Lightning Talk
+
+[Talk title](https://web.microsoftstream.com/video/1fa3a0b1-21ea-4277-bc25-5b30f78da829)
+
 ## Magdalena Wąsowicz
 
 **My motto:**
-> *Semper ubi sub-ubi*
+
+> _Semper ubi sub-ubi_
 
 ### Things I like to do:
+
 - cooking
 - painting
 - reading
-    * mostly s-f and fantasy books
+  - mostly s-f and fantasy books
 
 ### Things I don't like:
+
 1. Noise
 2. Spiders
 3. Writers who start a series of books and then do not finish
@@ -20,6 +28,7 @@
 [Bored Panda](https://www.boredpanda.com/?utm_source=bing&utm_medium=organic&utm_campaign=organic)
 
 ##### Bored panda looks like this:
+
 ![panda](https://drscdn.500px.org/photo/100958637/m%3D900/f1a145f4926bcc77e90ccaec53502ba1)
 
 ##### And moves like this:
@@ -32,26 +41,25 @@ But I was also educator, social worker, treasurer, coordinator of EU projects, o
 
 \*This is my first python function \*:
 
-``` python
+```python
 def hello():
     print("Hello World!")
 ```
 
-
 ## The beings I live with
 
-
-|Being | Genre | Name |
-| - | -: | -: |
-| Husband | Human | The Greatest Man [^1] |
-| Favorite animal | Dog | Dyzio |
-| Also favorite animal | Cat | Ruda |
+| Being                | Genre |                  Name |
+| -------------------- | ----: | --------------------: |
+| Husband              | Human | The Greatest Man [^1] |
+| Favorite animal      |   Dog |                 Dyzio |
+| Also favorite animal |   Cat |                  Ruda |
 
 [^1]: he is standing behind me...
 
-
 ### This is the end of my story ... for now
-> And remember:
->> *“If you trust in yourself. . .and believe in your dreams. . .and follow your star. . . you'll still get beaten by people who spent their time working hard and learning things and weren't so lazy.”*
 
-*<p style="text-align: right;"> Terry Pratchett </div>*
+> And remember:
+>
+> > _“If you trust in yourself. . .and believe in your dreams. . .and follow your star. . . you'll still get beaten by people who spent their time working hard and learning things and weren't so lazy.”_
+
+_<p style="text-align: right;"> Terry Pratchett </div>_
